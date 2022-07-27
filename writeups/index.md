@@ -1,7 +1,9 @@
 ---
 title: "CTF Writeups"
-description: CTF (Capture The Flag) solutions and writeups
+description: CTF solutions and writeups
 ---
+<img src="/img/icon.png" width="200" height="200"/>
 
+I share ctf solutions and writeups on several platforms on this page
 
-# Coming Soon..
+*  [TryHackMe](/writeups/tryhackme)
