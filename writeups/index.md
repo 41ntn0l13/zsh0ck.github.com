@@ -7,3 +7,5 @@ description: CTF solutions and writeups
 I share ctf solutions and writeups on several platforms on this page
 
 *  [TryHackMe](/writeups/tryhackme)
+*  [HackTheBox](/writeups/hackthebox)
+*  [VulnHub](/writeups/vulnhub)
