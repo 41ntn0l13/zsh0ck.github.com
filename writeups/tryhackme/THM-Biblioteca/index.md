@@ -106,7 +106,6 @@ because it would take a long time.
 ![enter image description here](https://i.hizliresim.com/t4vt0wh.png)
 
 The password was very simple.
-******************************
 
 <p align="center">
   <img src="https://i.hizliresim.com/ij64q8m.png">
