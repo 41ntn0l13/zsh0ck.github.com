@@ -25,12 +25,12 @@ sudo nmap -sSCV -v -A -T4 -p-
 ```
 
 
-> -sS  : syn scan
-> -sC : default scripts
-> -sV : version info
-> -v : verbose (to see the outputs in detail)
-> -T4 : time
-> -p- : all ports
+- -sS  : syn scan
+- -sC : default scripts
+- -sV : version info
+- -v : verbose (to see the outputs in detail)
+- -T4 : time
+- -p- : all ports
 
 
 <p align="center">
