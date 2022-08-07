@@ -2,6 +2,7 @@
 title: "Agent T WriteUp"
 categories: [ctf]
 date: 2022/08/07
+image: img/agent_t_thm/img.png
 description: TryHackMe Agent T WriteUp.
 ---
 
