@@ -7,6 +7,8 @@ description: TryHackMe Agent T WriteUp.
 
 # TryHackMe | Agent T
 
+## Scanning && Enumeration
+
 Let's start with the network scan first.
 
 <p align="center">
@@ -26,6 +28,8 @@ A web application is running on port 80. PHP 8.1.0 dev version. Let's look at th
 This is the default admin dashboard. I browsed the pages, but i couldn't find any important clue or information.
 
 It made more sense to find exploits suitable for PHP version.
+
+## Exploitation
 
 <p align="center">
   <img src="/img/agent_t_thm/2.png">
@@ -55,4 +59,16 @@ There is no need for any privilege escalation process and we can find it with th
   <img src="/img/agent_t_thm/5.png">
 </p>
 
+```bash
+find / -name *.txt
+
+```
+
 It was that simple. Yes, this is very easy when you do the right enumeration and exploitation.
+
+### Resources
+
+  - https://github.com/flast101/php-8.1.0-dev-backdoor-rce/blob/main/revshell_php_8.1.0-dev.py
+
+
+
