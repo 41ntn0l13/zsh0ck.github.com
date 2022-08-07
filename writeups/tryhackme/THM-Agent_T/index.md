@@ -66,6 +66,11 @@ find / -name *.txt
 
 It was that simple. Yes, this is very easy when you do the right enumeration and exploitation.
 
+
+
+
+
+
 ### Resources
 
  - [Exploit 1](https://github.com/flast101/php-8.1.0-dev-backdoor-rce/blob/main/revshell_php_8.1.0-dev.py "Exploit")
