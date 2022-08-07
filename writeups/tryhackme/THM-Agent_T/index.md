@@ -7,6 +7,10 @@ description: TryHackMe Agent T WriteUp.
 
 # TryHackMe | Agent T
 
+<p align="center">
+  <img src="/img/agent_t_thm/img.png">
+</p>
+
 ## Scanning && Enumeration
 
 Let's start with the network scan first.
