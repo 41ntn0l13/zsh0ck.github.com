@@ -15,9 +15,7 @@ description: TryHackMe Agent T WriteUp.
 
 Let's start with the network scan first.
 
-<p align="center">
-  <img src="/img/agent_t_thm/0.png">
-</p>
+
 
 ```bash
 nmap -sSV --min-rate 1000 -p- -v <ip>
