@@ -4,6 +4,8 @@ categories: [ctf]
 date: 2022/07/22
 description: TryHackMe Biblioteca WriteUp.
 ---
+# TryHackMe | Biblioteca
+
 Hello everyone,
 
 I will explain the solution of the medium level machine as clearly as i work.
