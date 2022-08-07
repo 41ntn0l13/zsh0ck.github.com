@@ -1,7 +1,7 @@
 ---
 title: "Biblioteca TryHackMe"
 categories: [ctf]
-date: 27/07/2022
+date: 2022/07/22
 description: TryHackMe Biblioteca WriteUp.
 ---
 Hello everyone,
