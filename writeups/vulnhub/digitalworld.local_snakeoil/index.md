@@ -1,10 +1,10 @@
 ---
-title: "digitalworld.local snakeoil WriteUp"
+title: "digitalworld.local:snakeoil WriteUp"
 categories: [ctf]
-date: 2022/10/08
+date: 2022/10/19
 description: VulnHub digitalworld.local:snakeoil WriteUp.
 ---
-# VulnHub | digitalworld.local:snakeoil
+# VulnHub | digitalworld.local : snakeoil
 
 <p align="center">
   <img src="/img/digitalworld.local_snakeoil/snake.png">
