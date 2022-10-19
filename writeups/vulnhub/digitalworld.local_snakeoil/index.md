@@ -10,9 +10,6 @@ description: VulnHub digitalworld.local:snakeoil WriteUp.
   <img src="/img/digitalworld.local_snakeoil/snake.png">
 </p>
 
-<p align="center">
-  <img src="/img/digitalworld.local_snakeoil/rsz_snake.png">
-</p>
 
 Hello everyone, today I will explain the solution of the box named digitalworld.local: snakeoil on the vulnhub platform.
 
