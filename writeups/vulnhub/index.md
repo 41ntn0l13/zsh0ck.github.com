@@ -8,3 +8,4 @@ title: "VulnHub"
 
 # Rooms
 * [pWnOS 2.0](/writeups/vulnhub/pwnos2-0_vulnhub)
+* [digitalworld.local : snakeoil](/writeups/vulnhub/digitalworld.local_snakeoil)
