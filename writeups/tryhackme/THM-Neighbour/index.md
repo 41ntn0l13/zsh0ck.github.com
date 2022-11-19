@@ -36,7 +36,7 @@ We came across the login page. It says something is wrong with the page source. 
   <img src="/img/neighbour_thm/3.png">
 </p>
 
-It says we can login with redacted:redacted credentials.
+It says we can login with guest:redacted credentials.
 
 <p align="center">
   <img src="/img/neighbour_thm/4.png">
