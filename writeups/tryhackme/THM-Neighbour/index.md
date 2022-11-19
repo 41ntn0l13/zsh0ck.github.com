@@ -10,7 +10,7 @@ description: TryHackMe Neighbour WriteUp.
   <img src="/img/neighbour_thm/0.png">
 </p>
 
-Hello everyone, in this location, I will explain the solution of the machine named neighbor in tryhackme.
+Hello everyone, in this write-up i will explain the solution of the machine named "Neighbor" in tryhackme.
 
 ## Scanning
 
