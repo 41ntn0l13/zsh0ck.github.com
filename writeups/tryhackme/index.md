@@ -9,6 +9,7 @@ title: "TryHackMe"
 # Rooms
 * [Biblioteca](/writeups/tryhackme/THM-Biblioteca)
 * [Keldagrim](/writeups/tryhackme/THM-Keldagrim)
+* [Neighbour](/writeups/tryhackme/THM-Neighbour)
 * [Watcher](/writeups/tryhackme/THM-Watcher)
 * [Agent T](/writeups/tryhackme/THM-Agent_T)
 
